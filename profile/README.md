@@ -27,7 +27,9 @@ Sin logs. Sin anuncios. Sin suscripciones. Solo comunidad y código puro.
 Únete, fork, comparte servidores, traduce, mejora el código.  
 Juntos construimos un internet más libre y seguro.
 
-[![Explora Ahora](https://img.shields.io/badge/Explora-AHORA-blueviolet)]([https://github.com/LeafHavenn/robloxLeafgarden](https://github.com/ShadowNetForge/ShadowNetForge-VPN))
+
+
+[![Explora Ahora](https://img.shields.io/badge/Explora-AHORA-blueviolet)](https://github.com/ShadowNetForge/ShadowNetForge-VPN) 
 
 
 **🔍 Palabras Clave SEO**  
