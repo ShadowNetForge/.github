@@ -27,7 +27,7 @@ Sin logs. Sin anuncios. Sin suscripciones. Solo comunidad y código puro.
 Únete, fork, comparte servidores, traduce, mejora el código.  
 Juntos construimos un internet más libre y seguro.
 
-[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](regal-bonbon-c9a9a8.netlify.app/)
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://regal-bonbon-c9a9a8.netlify.app/)
 -
 
 
